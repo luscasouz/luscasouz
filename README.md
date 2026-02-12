@@ -110,11 +110,6 @@ Formado em **Engenharia Elétrica** com **pós-graduação em Arquitetura de Sof
 
 ### 📊 &nbsp;GitHub Stats
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=luscasouz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=238636&icon_color=238636&text_color=8b949e&ring_color=238636&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luscasouz&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=238636&text_color=8b949e&langs_count=8" />
-
 <br/>
 
 <img width="60%" src="https://streak-stats.demolab.com?user=luscasouz&theme=github-dark-blue&hide_border=true&background=0d1117&ring=238636&fire=238636&currStreakLabel=238636&sideLabels=8b949e&dates=8b949e&stroke=30363d" />
