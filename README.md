@@ -14,6 +14,8 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-de-souza-santos-ba0610135)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lss.ctba@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/luscasouz)
+[![Portfólio](https://img.shields.io/badge/-Portfólio-238636?style=flat&logo=googlechrome&logoColor=white)](https://lsaiengineer.com/)
+[![Nexa](https://img.shields.io/badge/-Nexa%20Inteligência-8B5CF6?style=flat&logo=googlechrome&logoColor=white)](https://nexainteligencia.com/)
 
 </div>
 
@@ -23,7 +25,7 @@
 
 AI & Data Engineer na **CCM do Brasil**, onde construo a infraestrutura de IA e dados da empresa — pipelines em tempo real com Kafka e Debezium (CDC), sistemas RAG integrados ao ERP, agentes autônomos com LangChain/LangGraph e chatbots inteligentes via WhatsApp.
 
-Cofundador da **Nexa Inteligência Comercial**, focado em soluções de automação e IA aplicada pra negócios.
+Cofundador da **[Nexa Inteligência Comercial](https://nexainteligencia.com/)**, focado em soluções de automação e IA aplicada pra negócios.
 
 Formado em **Engenharia Elétrica** com **pós-graduação em Arquitetura de Software** pela Universidade Tuiuti do Paraná.
 
