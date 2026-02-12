@@ -5,7 +5,7 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&repeat=true&width=620&height=55&lines=AI+%26+Data+Engineer;Real-time+Pipelines+%7C+GenAI+%7C+Cloud;Building+RAG+systems+and+Autonomous+Agents" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=238636&center=true&vCenter=true&repeat=true&width=620&height=55&lines=AI+%26+Data+Engineer;Real-time+Pipelines+%7C+GenAI+%7C+Cloud;RAG+Systems+%7C+Autonomous+Agents+%7C+CDC" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,13 +21,11 @@
 
 ### 🧑‍💻 &nbsp;Sobre mim
 
-AI & Data Engineer na **CCM do Brasil**, onde construo a infraestrutura de IA da empresa — desde pipelines de dados em tempo real com Kafka e Debezium até sistemas RAG integrados ao ERP e agentes autônomos com LangChain/LangGraph.
+AI & Data Engineer na **CCM do Brasil**, onde construo a infraestrutura de IA e dados da empresa — pipelines em tempo real com Kafka e Debezium (CDC), sistemas RAG integrados ao ERP, agentes autônomos com LangChain/LangGraph e chatbots inteligentes via WhatsApp.
 
 Cofundador da **Nexa Inteligência Comercial**, focado em soluções de automação e IA aplicada pra negócios.
 
-Formado em **Engenharia Elétrica** e finalizando **pós em Arquitetura de Software** pela Universidade Tuiuti do Paraná.
-
-Fora do código: toco **tuba** 🎺, arranho um **violão** 🎸, estudo **teologia reformada** 📚 e construo coisas no **Minecraft** 🎮.
+Formado em **Engenharia Elétrica** com **pós-graduação em Arquitetura de Software** pela Universidade Tuiuti do Paraná.
 
 📍 Curitiba, PR
 
@@ -141,20 +139,14 @@ Fora do código: toco **tuba** 🎺, arranho um **violão** 🎸, estudo **teolo
 
 | | |
 |---|---|
-| 🎓 **Pós-graduação em Arquitetura de Software** | Universidade Tuiuti do Paraná · 2025–2026 |
-| 🎓 **Bacharelado em Engenharia Elétrica** | Universidade Tuiuti do Paraná · Concluído em 2024 |
+| 🎓 **Pós-graduação em Arquitetura de Software** | Universidade Tuiuti do Paraná · 2025 |
+| 🎓 **Bacharelado em Engenharia Elétrica** | Universidade Tuiuti do Paraná · 2024 |
 
 ---
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=luscasouz&color=238636&style=flat-square&label=Profile+Views" />
-
-<br/><br/>
-
-```
-"Porque dele, e por ele, e para ele são todas as coisas." — Romanos 11:36
-```
 
 <br/>
 
